@@ -26,7 +26,7 @@ Os seguintes visuais foram utilizados no relatório:
 
 Dependendo da disposição dos visuais e da necessidade de detalhamento, o relatório pode conter até duas páginas, otimizadas para a experiência do cliente.
 
-## Como Executar o Projeto
+## Como visualizar o Projeto
 
 Abra o arquivo `.pbix` no Power BI Desktop para explorar os relatórios e as visualizações.
 
